@@ -3,9 +3,8 @@ Uppgiften är att göra en sida enligt nedanstående bilder, text och kod-stycke
 
 ## Inlämning
 * Code review är efter lunch fredagen den 12/6.
-* Senaste tiden för inlämning är kl. 8.00 fredagen den 12/6. Det som kommer efter det bedömmer vi inte om det inte finns rimliga skäl. Ni skriver i en länk till erat Github-repo i ett formulär ni kommer få. OBS: Glöm ej att göra repot publikt!
-* Ni lämnar in genom att pusha till er GitHub med namnet "Evently".
-* När ni pushat upp sista ändringen skriver ni lärarchatten i lärarchatten och meddelar oss med länk till koden. Om ni inte meddelar bedömmer vi den i det skick den är vid deadline, commits efter detta kommer ignoreras.
+* Senaste tiden för inlämning är kl. 8.00 fredagen den 12/6. Det som kommer efter det bedömmer vi inte om det inte finns rimliga skäl. Ni lämnar in genom att ni skriver in en länk till erat Github-repo i ett formulär ni kommer få. OBS: Glöm ej att göra repot publikt!
+* När ni lämnat in bedömmer vi koden i det skick den är vid deadline, commits efter detta kommer ignoreras.
   
 ## Krav
 * Klona detta repo och använd som grund.
