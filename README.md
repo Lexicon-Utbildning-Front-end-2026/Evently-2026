@@ -42,8 +42,8 @@ Följande är extra och sådant ni inte måste ha med om ni inte hinner/vill/kan
 ### I grupp
 Visa och berätta lite om:
 * En del av din kod där du fått till en responsiv lösning du är nöjd med.
-* Hur du strukturerat din html/css för att få tydlighet, läsbarhet och återanvändbar kod.
-* Har du tänkt på tillgänglighet?
+* Hur har du strukturerat din html/css för att få tydlighet, läsbarhet och återanvändbar kod.
+* Hur har du tänkt på tillgänglighet?
 
 ### I helklass
 Berätta i korthet:
