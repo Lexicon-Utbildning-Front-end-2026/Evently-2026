@@ -25,6 +25,7 @@ Följande är extra och sådant ni inte måste ha med om ni inte hinner/vill/kan
 * Olika färger på "tags" behövs inte om ni inte vill, använd bara en på alla om ni vill förenkla.
 * Använd gärna en diskret transition på hover/focus-visible på knappar och länkar om ni vill.
 * Hamburgar-menyn behöver ni bara göra som en ikon, all annan funktionalitet är superextra och inget som vi förväntar oss att ni gör!
+* Gör ett mörkt läge med dark-light() om ni har tid och vill
   
 ## Övriga resurser
 * Använd gärna bilder från [https://picsum.photos/](https://picsum.photos/). Vill ni använda andra är det ok, men se till att det ser bra ut i sammanhanget.
