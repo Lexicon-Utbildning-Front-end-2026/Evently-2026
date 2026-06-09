@@ -116,6 +116,11 @@ p {
 
 
 /* Kevin Powell's content-grid layout pattern */
+/*
+See these for more info:
+https://www.youtube.com/watch?v=c13gpBrnGEw
+https://www.youtube.com/watch?v=cf-J4ffMBfo
+*/
 .content-grid {
     --padding-inline: calc(var(--spacing) * 6);
     --content-max-width: 75rem;
